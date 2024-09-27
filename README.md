@@ -56,5 +56,5 @@ This project focuses on migrating a PHP application running on an AMD instance t
 ## Contributing
 If you would like to contribute, please submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Created By
+This project is created by Tek Chand Kumar Sharma.

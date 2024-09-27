@@ -96,13 +96,13 @@ Before starting the migration, ensure the following:
 Here are some key screenshots for each step:
 
 1. **Graviton Instance Creation:**
-   ![Graviton Instance](Screenshots/image1.png)
+   ![Graviton Instance](https://github.com/TKSDE/AWS-PHP-Migration-Graviton/blob/main/Screenshots/image1.png)
 
 2. **Apache Installation:**
-   ![Apache Installed](Screenshots/image2.png)
+   ![Apache Installed](https://github.com/TKSDE/AWS-PHP-Migration-Graviton/blob/main/Screenshots/image2.png)
 
 3. **Application Running on Graviton:**
-   ![PHP Application Running](Screenshots/image3.png)
+   ![PHP Application Running](https://github.com/TKSDE/AWS-PHP-Migration-Graviton/blob/main/Screenshots/image3.png)
 
 ---
 
